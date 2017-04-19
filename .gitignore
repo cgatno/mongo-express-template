@@ -1,0 +1,18 @@
+# Node.js packages installed with Yarn
+# Restore packages using `yarn` (recommended)
+# or `npm install`
+node_modules/
+
+# Windows system files
+Thumbs.db
+
+# Compiled files
+# Recompile using `yarn run build`
+# or `npm run build`
+# or `gulp build`
+dist/
+
+# Environment variable config
+# See README and .env.sample for
+# example config
+.env
